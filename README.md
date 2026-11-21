@@ -13,6 +13,7 @@
 | 부가가치세 | https://ywkim-boop.github.io/guide/bugase.html |
 | 종합소득세 | https://ywkim-boop.github.io/guide/jongso.html |
 | 법인세 | https://ywkim-boop.github.io/guide/beopin.html |
+| 면세사업장 현황신고 | https://ywkim-boop.github.io/guide/myeonse.html |
 
 ## 양도 · 증여 · 상속 (해인세무회계 · 세무사 김윤완)
 | 안내 | 주소 |
